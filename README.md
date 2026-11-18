@@ -63,6 +63,7 @@
 -->
 
 Feel free to reach out for collaboration on hardware, embedded systems or rover projects!
+haslamafurkan@gmail.com
 
 ---
 
