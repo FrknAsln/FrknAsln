@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GTU-Electronics_Engineering-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Baykar-Hardware_Intern-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardware_Intern-1F2937?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ERC_2026-1st_in_Türkiye-F59E0B?style=for-the-badge" />
 </p>
 
@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Electronics Engineering student at **Gebze Technical University (GTU)** since 2022
-- ✈️ Hardware intern at **Baykar** since August 2026, working on **FADEC (Full Authority Digital Engine Control)** and **ECU (Engine Control Unit)** hardware for piston aviation engines
+- ✈️ Hardware intern since August 2026, working on **FADEC (Full Authority Digital Engine Control)** and **ECU (Engine Control Unit)** hardware for piston aviation engines
 - 🤖 Electronics team member at **GTU Rover** since 2025: power management, **PCB (Printed Circuit Board)** design and wiring
 - 🏆 With GTU Rover: **1st in Türkiye** and **15th worldwide** at **ERC (European Rover Challenge) 2026**
 - 🔌 Interested in power electronics, embedded hardware, control systems and digital design
